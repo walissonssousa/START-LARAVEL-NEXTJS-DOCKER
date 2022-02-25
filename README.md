@@ -1,5 +1,5 @@
 # Nome do Ativo
-* Start-laravel-docker MODELO  PHP COM LARAVEL
+* Start-laravel-docker MODELO  PHP COM LARAVEL E FRONT COM NEXTJS
 
 # Tecnologia
 * PHP 7.4
