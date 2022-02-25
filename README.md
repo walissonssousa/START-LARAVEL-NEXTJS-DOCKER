@@ -6,6 +6,7 @@
 * Composer
 * Apache 2
 * Docker
+* NextJS
 
 
 
@@ -49,6 +50,9 @@ php artisan key:generate
 # Visualizando aplicação localhost
 * API 
 http://localhost:8080/
+
+*FRONTEND
+http://localhost:80
 
 
 
